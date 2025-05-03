@@ -13,4 +13,4 @@ services:
       - key: REDMINE_DB_USERNAME
         value: root
       - key: REDMINE_DB_PASSWORD
-        value: example
+        value: KxCtmLXmTAPxILbrfLoVECxjCUXNtEno
