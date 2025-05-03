@@ -7,9 +7,9 @@ services:
       - db
     environment:
       REDMINE_DB_MYSQL: mysql.railway.internal
-      REDMINE_DB_DATABASE: redmine
+      REDMINE_DB_DATABASE: railway
       REDMINE_DB_USERNAME: root
-      REDMINE_DB_PASSWORD: example
+      REDMINE_DB_PASSWORD: KxCtmLXmTAPxILbrfLoVECxjCUXNtEno
     ports:
       - "3000:3000"
     volumes:

@@ -9,7 +9,7 @@ services:
       - key: REDMINE_DB_MYSQL
         value: mysql.railway.internal
       - key: REDMINE_DB_DATABASE
-        value: redmine
+        value: railway
       - key: REDMINE_DB_USERNAME
         value: root
       - key: REDMINE_DB_PASSWORD
